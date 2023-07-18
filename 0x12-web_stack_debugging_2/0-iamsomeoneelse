@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#run whoami command from the new user
+sudo -u "$1" whoami
+
+	
+
+
